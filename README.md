@@ -13,6 +13,7 @@ Install pyenv
  - Install specific version of python: pyenv install 3.12.2
  - After installing a new python version run: pyenv rehash
  - Set python version: pyenv local 3.12.2
+ - Install required libraries: pip install requests & pip install pytest
 
 
 
