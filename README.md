@@ -1,4 +1,5 @@
 # PyTestForAPI
+Initially following https://youtu.be/7dgQRVqF1N0?si=ac4dzr8SfYiK4g7E to get started
 
 # Python Setup
 Install pyenv
